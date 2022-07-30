@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "merah jambu",
+      "type": "color",
+      "value": "#B70505",
+      "category": "color",
+      "meta": {
+        "projectId": "4cbszj7bHtGkLbXg7TtkqR",
+        "id": "oELZRPDYX"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

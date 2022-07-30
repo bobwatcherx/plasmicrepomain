@@ -1,0 +1,94 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.text__bOyeh {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  min-width: 0;
+  display: none;
+}
+.text__cgBoU {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  display: none;
+}
+.textunnamedGroupOfVariants_unnamedVariant__cgBoUqPhaJ {
+  display: block;
+}
+.button___4Wrt:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  display: none;
+}
+.buttonunnamedGroupOfVariants_unnamedVariant___4WrTqPhaJ:global(.__wab_instance) {
+  display: none;
+}
+.svg__mTvmC {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__coPkc {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.button__amixa:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  display: none;
+}
+.buttonunnamedGroupOfVariants_unnamedVariant__amixaqPhaJ:global(.__wab_instance) {
+  display: flex;
+}
+.svg__n4B1D {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.text__fMtB {
+  color: #e2e2ae;
+}
+.svg__mrQl {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  display: none;
+}
+.svgunnamedGroupOfVariants_unnamedVariant {
+  display: block;
+}
+.text__lDKxX {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  display: none;
+}
+.textbersama__lDKxX1Avio {
+  display: block;
+}
+.ul {
+  display: flex;
+  flex-direction: column;
+}
